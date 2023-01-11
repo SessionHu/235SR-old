@@ -5,6 +5,7 @@ banned-ips.json
 # Log file
 *.log
 logs/
+cache/
 
 # User privacy files
 banned-players.json
@@ -13,12 +14,9 @@ usercache.json
 
 # Server config files
 commands.yml
-eula.txt
 help.yml
 permissions.yml
-
-# Lib files
-libraries/
+version_history.json
 
 # VSCode
 .vscode/
